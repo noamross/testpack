@@ -1,0 +1,23 @@
+<!--
+%\VignetteEngine{knitr::knitr}
+%\VignetteIndexEntry{Some addition}
+-->
+
+Vingette for Addition
+======================
+This document is a guide to the package.  Let's do some R:
+
+```{r}
+library(firstpackage)
+add(1,2)
+```
+
+You can also embed plots, for example:
+
+```{r fig.width=7, fig.height=6}
+data = c(1,2,3)
+plot(data, addone(data))
+```
+
+
+
