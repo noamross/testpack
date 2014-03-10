@@ -1,4 +1,4 @@
 testpack
 ========
 
-A package for addition in R
+A package for addition in R. So important!
